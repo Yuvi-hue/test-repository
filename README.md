@@ -1,2 +1,2 @@
 # test-repository
-My first Python project 
+Repository purely to test and get accustomed to github.
